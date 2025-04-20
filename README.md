@@ -1,7 +1,7 @@
 # 📚 BookManager - Sistema de Cadastro e Busca de Livros Pessoais
 
 Um sistema simples e interativo de linha de comando para cadastro, busca e gerenciamento de livros pessoais, utilizando **Python** e 
-banco de dados **SQLite**. Também oferece funções administrativas avançadas e suporte a contêineres **Docker**.
+banco de dados **SQLite**. Também oferece funções administrativas avançadas.
 
 ---
 
@@ -27,11 +27,9 @@ banco de dados **SQLite**. Também oferece funções administrativas avançadas 
 
 ### 🔧 Requisitos
 - Python 3.10.12 ou superior
-- Biblioteca SQLITE3 do python (Já incluída na linguagem)
-- Docker (opcional, recomendado para execução isolada)
+- Biblioteca SQLITE3 do python (Já incluída na linguagem
 
-### 💻 Rodando localmente (sem Docker)
-
+### 💻 Rodando localmente
 1. Clone o repositório:
 ```bash
 git clone https://github.com/MarcusVinicius029/Case-DTI.git
