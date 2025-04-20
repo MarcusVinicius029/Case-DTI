@@ -1,0 +1,27 @@
+# Ambientes virtuais
+venv/
+.env/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+*.db
+
+# Arquivos de log
+*.log
+
+# Configs locais
+*.env
+*.DS_Store
+
+# Arquivos do VSCode
+.vscode/
+
+# Docker
+*.tar
+*.img
+*.pid
